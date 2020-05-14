@@ -1,0 +1,6 @@
+/node_modules
+/old
+/images
+/fromFirestore
+service-key.json
+prod-service-key.json
